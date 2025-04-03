@@ -1,0 +1,124 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "Semra Gunaydin",
+      "position": "Software Engineer",
+      "company": "Google",
+      "phone": "+48 579331129",
+      "email": "semra.gunaydin@google.com"
+    },
+    {
+      "id": 2,
+      "name": "Liam Anderson",
+      "position": "Backend Developer",
+      "company": "Amazon",
+      "phone": "+1 6467891123",
+      "email": "liam.anderson@amazon.com"
+    },
+    {
+      "name": "Sophie Müller-Karol",
+      "position": "UI/UX Designer",
+      "company": "Adobe",
+      "phone": "+49 17634567890",
+      "email": "sophie.mueller@adobe.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Carlos Ramirez",
+      "position": "Software Engineer",
+      "company": "Facebook",
+      "phone": "+34 612345678",
+      "email": "carlos.ramirez@facebook.com"
+    },
+    {
+      "id": 7,
+      "name": "Fatima Ahmed",
+      "position": "Full Stack Developer",
+      "company": "Spotify",
+      "phone": "+46 761234567",
+      "email": "fatima.ahmed@spotify.com"
+    },
+    {
+      "id": 8,
+      "name": "John Doe",
+      "position": "Cybersecurity Analyst",
+      "company": "Cisco",
+      "phone": "+1 4157891123",
+      "email": "john.doe@cisco.com"
+    },
+    {
+      "id": 9,
+      "name": "Elena Petrova",
+      "position": "Data Scientist",
+      "company": "Netflix",
+      "phone": "+7 9211234567",
+      "email": "elena.petrova@netflix.com"
+    },
+    {
+      "id": 10,
+      "name": "David Kim",
+      "position": "AI Engineer",
+      "company": "Tesla",
+      "phone": "+82 1023456789",
+      "email": "david.kim@tesla.com"
+    },
+    {
+      "id": 11,
+      "name": "Isabella Rossi",
+      "position": "Product Manager",
+      "company": "Apple",
+      "phone": "+39 3456789012",
+      "email": "isabella.rossi@apple.com"
+    },
+    {
+      "id": 12,
+      "name": "Mohamed Ali",
+      "position": "Machine Learning Engineer",
+      "company": "DeepMind",
+      "phone": "+971 501234567",
+      "email": "mohamed.ali@deepmind.com"
+    },
+    {
+      "id": 13,
+      "name": "Olivia Brown",
+      "position": "Frontend Developer",
+      "company": "Twitter",
+      "phone": "+1 3109876543",
+      "email": "olivia.brown@twitter.com"
+    },
+    {
+      "id": 14,
+      "name": "Javier Gomez",
+      "position": "QA Engineer",
+      "company": "Samsung",
+      "phone": "+34 654321987",
+      "email": "javier.gomez@samsung.com"
+    },
+    {
+      "id": 15,
+      "name": "Sophia Lee",
+      "position": "Business Analyst",
+      "company": "Oracle",
+      "phone": "+82 1056784321",
+      "email": "sophia.lee@oracle.com"
+    },
+    {
+      "id": 16,
+      "name": "Ethan White",
+      "position": "Cloud Engineer",
+      "company": "AWS",
+      "phone": "+1 2067893344",
+      "email": "ethan.white@aws.com"
+    },
+    {
+      "name": "Eylem Gunaydin",
+      "position": "Developer",
+      "company": "Amazon",
+      "phone": "5373820125",
+      "email": "eylem_gunaydin@amazon.com",
+      "id": 18
+    }
+  ]
+}
