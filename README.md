@@ -7,7 +7,7 @@ The application interacts with an external API for data management and delivers 
 - Users can add new contacts to expand their directory.
 
 ✏️ Update Contact Information
-- dit and update existing contact details seamlessly.
+- Edit and update existing contact details seamlessly.
 
 🗑️ Delete Contact
 - Remove unwanted contacts from the directory.
